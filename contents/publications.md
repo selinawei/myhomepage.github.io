@@ -12,7 +12,7 @@
 1. **All-in-Focus Seeing Through Occlusion with Event and Frame.** *PRCV 2025.*  
    Authors: Lixuan Wei, Yiche Liu, Kejing Xia, Huijiao Wang, Lei Yu  
    <div class="pdf-single">
-     <a class="pdf-card" href="static/assets/files/PRCV.pdf" target="_blank" title="PRCV 2025 PDF">
+     <a class="pdf-card" href="/myhomepage.github.io/static/assets/files/PRCV.pdf" target="_blank" title="PRCV 2025 PDF">
        <svg viewBox="0 0 24 24"><path d="M6 2h7l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2zm7 1.5V9h5"/><path d="M8 13h4a2 2 0 0 1 0 4H9.5v2H8v-6zm1.5 1.5v2H12a1 1 0 0 0 0-2H9.5zM14 13h3a1.5 1.5 0 0 1 0 3H15.5v1.5H14V13zm1.5 1.5v1h1a.5.5 0 0 0 0-1h-1z"/></svg>
        <span>PDF</span>
      </a>
@@ -21,11 +21,11 @@
 2. **All-in-Focus Imaging from Events with Occlusions.** *IEEE Transactions on Multimedia.* *  
    Authors: Yichen Liu*, Lixuan Wei*, Yufei Guo, Lei Yu  
    <div class="pdf-pair">
-     <a class="pdf-card" href="static/assets/files/TMM1.pdf" target="_blank" title="TMM Part 1">
+     <a class="pdf-card" href="/myhomepage.github.io/static/assets/files/TMM1.pdf" target="_blank" title="TMM Part 1">
        <svg viewBox="0 0 24 24"><path d="M6 2h7l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2zm7 1.5V9h5"/><path d="M8 13h4a2 2 0 0 1 0 4H9.5v2H8v-6zm1.5 1.5v2H12a1 1 0 0 0 0-2H9.5zM14 13h3a1.5 1.5 0 0 1 0 3H15.5v1.5H14V13zm1.5 1.5v1h1a.5.5 0 0 0 0-1h-1z"/></svg>
        <span>Part 1</span>
      </a>
-     <a class="pdf-card" href="static/assets/files/TMM2.pdf" target="_blank" title="TMM Part 2">
+     <a class="pdf-card" href="/myhomepage.github.io/static/assets/files/TMM2.pdf" target="_blank" title="TMM Part 2">
        <svg viewBox="0 0 24 24"><path d="M6 2h7l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2zm7 1.5V9h5"/><path d="M8 13h4a2 2 0 0 1 0 4H9.5v2H8v-6zm1.5 1.5v2H12a1 1 0 0 0 0-2H9.5zM14 13h3a1.5 1.5 0 0 1 0 3H15.5v1.5H14V13zm1.5 1.5v1h1a.5.5 0 0 0 0-1h-1z"/></svg>
        <span>Part 2</span>
      </a>
@@ -34,7 +34,7 @@
 3. **A Spatio-temporal Event Transformer on Versatile Tasks for Human Behavior Analysis.** *IJCAI Workshop.* *  
    Authors: Kejing Xia*, Lixuan Wei*, Lei Yu  
    <div class="pdf-single">
-     <a class="pdf-card" href="static/assets/files/IJCAI.pdf" target="_blank" title="IJCAI Workshop PDF">
+     <a class="pdf-card" href="/myhomepage.github.io/static/assets/files/IJCAI.pdf" target="_blank" title="IJCAI Workshop PDF">
        <svg viewBox="0 0 24 24"><path d="M6 2h7l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2zm7 1.5V9h5"/><path d="M8 13h4a2 2 0 0 1 0 4H9.5v2H8v-6zm1.5 1.5v2H12a1 1 0 0 0 0-2H9.5zM14 13h3a1.5 1.5 0 0 1 0 3H15.5v1.5H14V13zm1.5 1.5v1h1a.5.5 0 0 0 0-1h-1z"/></svg>
        <span>PDF</span>
      </a>
