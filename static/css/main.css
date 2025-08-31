@@ -134,13 +134,18 @@ section .main-body .subtle-divider{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    height: max(260px,min(400px,calc(100vw/4.5)));
+    width: auto;
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
 }
 
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
+    }
+    #avatar img {
+        height: max(170px,min(260px,calc(100vw/2.2)));
     }
 }
 
