@@ -3,6 +3,9 @@
 
 :root{
     --h-title-color:#3948d2;
+    --accent:#3948d2;
+    --chip-bg:#eff1fe;
+    --chip-border:#d9ddf8;
 }
 
 .header {
@@ -54,6 +57,38 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+section .main-body .skill-chip{
+    display:inline-block;
+    margin:0 .4rem .6rem 0;
+    padding:.25rem .65rem;
+    border:1px solid var(--chip-border);
+    background:var(--chip-bg);
+    border-radius:999px;
+    font-size:.85rem;
+    font-weight:500;
+    color:#2e3390;
+}
+
+section .main-body h4.section-inline-icon{
+    font-size:1.15rem;
+    margin-top:1.8rem;
+    font-weight:600;
+    color:#23275c;
+    display:flex;
+    align-items:center;
+    gap:.5rem;
+}
+
+section .main-body h4.section-inline-icon i{
+    color:var(--accent);
+}
+
+/* Subtle divider */
+section .main-body .subtle-divider{
+    height:1px;
+    background:linear-gradient(90deg,rgba(57,72,210,0.35),rgba(57,72,210,0));
+    margin:1.4rem 0;
+}
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
